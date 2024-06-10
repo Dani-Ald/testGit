@@ -1,10 +1,4 @@
 # testGit
 
-deedededede
-
-d
-e
-de
-de
-
-prueba 1
+Prueba de commit
+repo 
