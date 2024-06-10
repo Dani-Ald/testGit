@@ -1,4 +1,3 @@
 # testGit
 
-Prueba de commit
-repo 
+HOLA MUNDO
